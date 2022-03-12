@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Devran Düzenli\source\repos\Tik_Tak_Tok_Projekt\Tik_Tak_Tok_Projekt\Source.cpp(6,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Devran Düzenli\source\repos\Tik_Tak_Tok_Projekt\Tik_Tak_Tok_Projekt\Source.cpp(6,1): error C2365: 'system': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1211): message : see declaration of 'system'
+C:\Users\Devran Düzenli\source\repos\Tik_Tak_Tok_Projekt\Tik_Tak_Tok_Projekt\Source.cpp(7,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Devran Düzenli\source\repos\Tik_Tak_Tok_Projekt\Tik_Tak_Tok_Projekt\Source.cpp(7,1): error C2365: 'printf': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : see declaration of 'printf'
